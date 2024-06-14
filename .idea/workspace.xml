@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5049fb24-c88e-424a-a542-433942507222" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5049fb24-c88e-424a-a542-433942507222" name="Changes" comment="fixed module dependencies" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +189,7 @@
       <updated>1650886384560</updated>
       <workItem from="1718365923232" duration="1237000" />
       <workItem from="1718367205457" duration="184000" />
-      <workItem from="1718367403833" duration="222000" />
+      <workItem from="1718367403833" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Edit Maze page">
       <created>1652509772498</created>
@@ -399,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1655016313553</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fixed module dependencies">
+      <option name="closed" value="true" />
+      <created>1718367667526</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367667526</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +427,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="no idea" />
     <MESSAGE value="Worked on navigation so you can go from main page to createmaze to viewmaze and then edit maze and also added toggle solution" />
     <MESSAGE value="Adding Cell Distribution" />
     <MESSAGE value="Making back button on CreateNewMaze work" />
@@ -449,7 +451,8 @@
     <MESSAGE value="option to export with and without solution from browse mazes" />
     <MESSAGE value="resetting images when opened from browse maze resets to the opened mazes original image" />
     <MESSAGE value="javadoc additions and generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="javadoc additions and generation" />
+    <MESSAGE value="fixed module dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed module dependencies" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
