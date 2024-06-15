@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This was a university project for CAB302 Software Development. The project was to create an application to assist designers in creating mazes for publication in digital or print media. Creating mazes was done by a user drawing walls on a grid, with support for other functionalities and solving mazes was done by the application using a depth-first search algorithm. The project is old and the code is most definitely a mess as was done in my early days of programming. The project was built using Java and Swing for the GUI. The project also used MariaDB for storing mazes and their solutions.
+This was a university project for CAB302 Software Development. The project was to create an application to assist designers in creating mazes for publication in digital or print media. Creating mazes was done by a user drawing walls on a grid, with support for other functionalities and solving mazes was done by the application using a depth-first search algorithm. The project is old and the code is most definitely a mess with many bugs and errors as was done in my early days of programming. The project was built using Java and Swing for the GUI. The project also used MariaDB for storing mazes and their solutions.
 
 ## Technologies Used
 
