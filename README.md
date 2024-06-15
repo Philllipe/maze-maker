@@ -18,7 +18,7 @@ The project was built using IntelliJ IDEA. As this project is quite old and I am
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Philllipe/stateless-gif-maker.git
+git clone https://github.com/Philllipe/maze-maker.git
 ```
 
 2. Edit the `src/MazeMaker/db.props` file to match your MariaDB configuration.
