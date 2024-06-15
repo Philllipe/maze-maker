@@ -26,3 +26,9 @@ git clone https://github.com/Philllipe/maze-maker.git
 4. Open the project in IntelliJ IDEA.
 5. In the Project Structure, add the `mariaDB-java-client-3.0.5.jar` file to the Module Dependencies.
 6. Run the `Main` class.
+
+## Demonstration
+
+https://github.com/Philllipe/maze-maker/assets/93122697/f1df640e-cbdc-450c-9439-2cd91084a1e9
+
+
